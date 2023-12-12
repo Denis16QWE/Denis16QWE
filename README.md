@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Denis16QWE
 - 👀 I’m interested in програмирование.
 - 🌱 I’m currently learning в школе, 10 класс и на курсах "Код будущего 2023/2024".
-- 📫 How to reach me:  denisljuba@mail.com.
+- 📫 How to reach me:  denisljuba@gmail.com.
 
 <!---
 Denis16QWE/Denis16QWE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
